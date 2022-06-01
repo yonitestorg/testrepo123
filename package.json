@@ -1,0 +1,12 @@
+{
+	"name": "remediating-repo",
+	"version": "1.0.0",
+	"private": true,
+	"dependencies": {
+		"ajv": "6.12.2",
+		"aws-sdk": "2.910.0",
+		"lodash": "4.17.5",
+		"body-parser": "1.13.3",
+		"express": "3.0.0"
+	}
+}
